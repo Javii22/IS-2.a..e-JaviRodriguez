@@ -110,3 +110,98 @@ Cada elemento del puesto de trabajo puede ser una potencial vía de ataque o fug
 
 El objetivo principal es proteger los datos y la infraestructura tecnológica, reducir riesgos y asegurar la continuidad del negocio, estableciendo un estándar de seguridad que todos los empleados deben cumplir.
 
+# Caso práctico del puesto de trabajo
+
+Por ejemplo una empresa tiene una consultoría de 50 empleados que maneja información 
+sensible de sus clientes, y han decidido implementar su seguridad implementando el PDS.
+
+La empresa quiere estas medidas:  
+
+- Bloqueo automático de pantalla (B, TEC): Configuración de bloqueo tras 5 minutos de inactividad.
+- Política de escritorio limpio (B, PER): Los empleados deben guardar documentos y dispositivos al finalizar la jornada.
+- Cifrado de discos (A, TEC): Implementación de BitLocker en laptops corporativas.
+- Autenticación multifactor (A, TEC): Obligatoria para acceder a sistemas críticos.
+- Capacitación en seguridad (B, PER): Sesiones trimestrales para todos los empleados.
+
+## Implementación:
+
+- El equipo de TI configura el bloqueo automático y el cifrado de discos.
+- RRHH organiza las capacitaciones en seguridad.
+- Los gerentes supervisan el cumplimiento de la política de escritorio limpio.
+
+## Resultados:
+
+Tras seis meses, la empresa observa:
+
+- Reducción del 70% en incidentes de seguridad menores.
+- Mayor concienciación de los empleados sobre la importancia de la seguridad.
+- Mejora en la satisfacción de los clientes respecto a la protección de su información.
+
+# Resumen - Plan de concienciación y formación
+
+El cuarto punto del Plan de Formación y Concienciación tiene como objetivo capacitar a todos los empleados de una empresa para que puedan identificar, mitigar y responder ante posibles amenazas relacionadas con la ciberseguridad. Este aspecto promueve la participación activa del personal administrativo y de los directivos en la protección de los activos.
+
+## 1. Misión del Plan
+
+Crear una fuerza laboral consciente y preparada:
+
+- Identificar amenazas, como correos de phishing.
+- Mitigar riesgos mediante buenas prácticas en el uso de sistemas.
+- Responder adecuadamente, notificando incidentes a tiempo.
+
+## 2. Inclusividad en la formación
+
+La formación se adapta a diferentes roles:
+
+- Técnica: para el personal de TI, que incluye configuración segura y gestión de vulnerabilidades.
+- Básica: para empleados generales, enfocada en prácticas como el uso de contraseñas seguras y el reconocimiento de amenazas comunes.
+
+Además, se fomenta la concienciación general, subrayando la importancia de comportamientos seguros, como evitar redes Wi-Fi inseguras y bloquear dispositivos.
+
+## 3. Continuidad y actualización
+
+El aprendizaje debe ser continuo:
+
+- Actualización técnica: tras cambios en los sistemas o nuevas amenazas.
+- Refuerzo de normativas: recordatorios periódicos sobre políticas de seguridad.
+
+## 4. Criterios de diseño
+
+El diseño del plan incluye:
+
+- Evaluaciones iniciales para adaptar el nivel de formación.
+- Adaptación según roles y tipos de información manejada, desde datos financieros hasta estrategias de negocio.
+
+# Caso práctico del plan de concienciación
+
+Un caso práctico sería por ejemplo una empresa que se dedica al desarrollo de software, detecta que un gran número de phishing hacia los empleados de la empresa, y el departamento de ciberseguridad implementa un plan de formación y concienciación para prevenir futuros ataques hacia sus empleados.
+
+## 1. Evaluación Inicial
+
+Se lleva a cabo una encuesta:
+- El 60% de los empleados no sabe cómo identificar enlaces maliciosos.
+- El 40% no actualiza sus contraseñas de manera regular.
+
+## 2. Formación Básica y Técnica
+
+- Técnica: Los administradores de sistemas reciben formación sobre cómo detectar y bloquear intentos de phishing en los servidores. Aprenden a establecer reglas avanzadas en el sistema de correo para filtrar mensajes sospechosos.
+
+- Básica: Los empleados de oficina participan en un taller interactivo donde analizan correos simulados para reconocer señales de phishing (dominios extraños, errores ortográficos, enlaces sospechosos).
+
+## 3. Campaña de Concienciación
+
+Se comparten mensajes en plataformas internas con recomendaciones como:
+- "Siempre verifica el dominio del remitente."
+- "Nunca compartas tus contraseñas por correo electrónico."
+
+## 4. Ejercicio Simulado
+
+Un mes después, se envía un correo de prueba que simula un intento de phishing. El correo incluye un enlace que solicita credenciales.
+Resultado: El 85% de los empleados evita hacer clic y notifica al equipo de TI.
+
+## 5. Resultados
+
+- La tasa de clics en correos sospechosos se reduce en un 70%.
+- Se detecta y bloquea un intento real de phishing gracias a que un empleado alerta al equipo de ciberseguridad tras identificar un correo sospechoso.
+
+
