@@ -53,3 +53,60 @@ La triada es un pilar muy importante en el mundo de la ciberseguridad porque a p
 - **Confidencialidad:** Una empresa de salud protege los registros médicos de los pacientes utilizando cifrado y limitando el acceso solo al personal autorizado. Esto garantiza que únicamente médicos y enfermeras con credenciales específicas puedan acceder a los datos.
 - **Integridad:** Para prevenir modificaciones no autorizadas en los registros médicos, se implementan sistemas de auditoría y firmas digitales, que permiten detectar cualquier cambio en la información.
 - **Disponibilidad:** Los sistemas de gestión de datos están diseñados para estar disponibles las 24 horas, con copias de seguridad regulares y sistemas redundantes que aseguran el acceso a la información en todo momento.
+
+
+# Resumen - Análisis de Riesgos
+
+El análisis de riesgos es un proceso clave en la gestión de la seguridad de la información y la ciberseguridad. Mediante este análisis, las organizaciones pueden identificar sus activos más valiosos, las amenazas a las que se enfrentan y las vulnerabilidades que podrían ser aprovechadas por los atacantes. Con esta información, las organizaciones están en mejor posición para tomar decisiones informadas sobre cómo mitigar los riesgos y proteger sus activos. Es esencial que las organizaciones realicen análisis de riesgos de manera regular.
+
+Este análisis tiene como objetivo seguir todos estos puntos:
+
+1. Definir el alcance
+2. Identificar los activos
+3. Identificar las amenazas
+4. Identificar vulnerabilidades y salvaguardas
+5. Evaluar el riesgo
+6. Tratar el riesgo
+
+## Algunas definiciones importantes
+
+### ¿Qué es el Plan Director de Seguridad?
+
+Se puede definir como un conjunto de proyectos en materia de seguridad de la información, que está dirigido a reducir el impacto de un riesgo a los que está expuesto una empresa hasta unos niveles estables a partir de un análisis de situación inicial. Si este análisis es bueno se lleva a cabo le permite a la empresa centrar su foco de atención en los riesgos asociados a los sistemas, procesos y elementos al alcance del PDS. De esta forma mitigamos la posibilidad de tener algún tipo de incidente de ciberseguridad. Por otra parte, también podemos obtener beneficios si realizamos un análisis de riesgos de forma aislada en lugar de llevarlo a cabo dentro de un contexto mayor como es el del desarrollo de un PDS.
+
+### ¿Qué es un análisis de la situación inicial?
+
+Un análisis de la situación inicial es una evaluación detallada del estado actual de la seguridad de la información y la ciberseguridad en una organización. Este análisis es fundamental para el Plan Director de Seguridad (PDS) y actúa como punto de partida para identificar y priorizar los riesgos a los que se enfrenta la organización.
+
+- **Identificación de activos**: Reconocer los recursos más valiosos de la organización, como hardware, software, datos sensibles y sistemas críticos.
+
+- **Evaluación de amenazas**: Detectar las posibles amenazas que podrían impactar estos activos, tales como ataques de hackers, malware o desastres naturales.
+
+- **Análisis de vulnerabilidades**: Revisar las debilidades en los sistemas y procesos que podrían ser aprovechadas por las amenazas identificadas.
+
+- **Revisión de medidas de seguridad existentes**: Evaluar las salvaguardas y controles de seguridad que ya están en funcionamiento en la organización.
+
+- **Estimación del nivel de riesgo actual**: Calcular la probabilidad y el impacto potencial de las amenazas identificadas, teniendo en cuenta las vulnerabilidades y las medidas de seguridad existentes.
+
+# Resumen - Puesto de trabajo
+
+El puesto de trabajo es un elemento crítico en la seguridad de la información, representando mucho más que un simple lugar físico de trabajo. Es un conjunto de elementos que un empleado utiliza para realizar sus tareas, incluyendo dispositivos, software, acceso a redes, instalaciones físicas, datos y el propio empleado.
+
+Los principales elementos son:
+- Dispositivos hardware (computadoras, laptops, tablets, smartphones)
+- Software y aplicaciones
+- Conexiones de red y comunicaciones
+- Instalaciones físicas
+- Acceso a datos
+- El personal y sus hábitos de trabajo
+
+## Importancia de la protección:
+
+Cada elemento del puesto de trabajo puede ser una potencial vía de ataque o fuga de información. Por ello, es fundamental establecer una normativa de protección que:
+- Definir restricciones de acceso
+- Establezca medidas de seguridad física y digital
+- Determine procedimientos de actualización
+- Promueva buenas prácticas de uso diario
+
+El objetivo principal es proteger los datos y la infraestructura tecnológica, reducir riesgos y asegurar la continuidad del negocio, estableciendo un estándar de seguridad que todos los empleados deben cumplir.
+
