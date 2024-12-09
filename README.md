@@ -1,4 +1,32 @@
 # IS-2.a..e-JaviRodriguez
+# Reflexión y Resumen sobre la Unidad de Seguridad Informática
+![](1.jpeg)
+---
+## 1 -  ¿Qué te han parecido los temas tratados?
+
+Todos los temas tratados me han parecido muy interesantes ya que no tenía más información sobre qué protocolos se llevan a cabo en tema de la ciberseguridad, como se hace un análisis de riesgo y qué políticas se pueden implementar  para mantener la información del personal a salvo. Y por último hacer que las personas tomen conciencia sobre la ciberseguridad para evitar posibles filtraciones de datos.
+
+## 2 - ¿Qué te ha parecido más útil para tu futuro puesto de trabajo en un equipo de seguridad?
+
+Lo más importante para un puesto de trabajo es seguir las políticas que se menciona en el punto  1.3 de la unidad 1 ya que siguiendo estos puntos mantienes tus datos personales y los de otros trabajadores a salvo que para la empresa sería muy importante no filtrar información.
+
+## 3 - ¿Conocías todos los puntos tratados en la unidad? ¿Cuáles no?
+
+Los puntos 1.2, 1.3 y 1.4 de la unidad si lo tenía más claro porque en la empresa que estuve de prácticas  me comentaron todos los puntos a tener en cuenta.
+
+De todos los puntos tratados no tenía mucha idea sobre el apartado 1.1 de la unidad 1.
+
+## 4 - ¿Alguno te ha llamado especialmente la atención? ¿Por qué?
+
+Me llamo mucho la atención el punto sobre la concienciación y formación, porque muchas personas no tienen ni idea de cómo afectan algunos actos que hacen como tener la sesión abierta del correo o tener las contraseñas en un papel para no tener que recordar la contraseña, esto parece algo normal para ello pero para otras personas pueden ser oro, lo que conlleva a robo de información para la empresa. Por eso es importante hacer formaciones para mantener la confidencialidad de la empresa y de los trabajadores.
+
+## 5 - ¿Destacarías algún punto de la unidad? ¿Cuál y por qué?
+
+Creo que en general el temario está bastante completo y bien estructurado.
+
+## 6 - ¿Has echado en falta algún tema?
+En mi opinión creo que para entender el tema 1 satisface todos los puntos de manera correcta.
+
 # Resumen - Principios Generales
 El primer tema de esta asignatura es esencial en el campo de la ciberseguridad, ya que trata tanto la prevención de ataques como la respuesta a incidentes. También enfatiza la importancia de proteger los sistemas a partir de la tríada CIA (Confidencialidad, Integridad y Disponibilidad). Estos principios son clave para asegurar que la información sea accesible únicamente para quienes deben tenerla, se mantenga intacta y esté disponible cuando se requiera. Este enfoque establece una base sólida para entender y aplicar medidas efectivas de ciberseguridad.
 
